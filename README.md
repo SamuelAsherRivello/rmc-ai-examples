@@ -1,51 +1,7 @@
 
-# Unity Project Template
+# RMC AI Examples
 
-This repo includes Project Structure Best Practices and C# Coding Standards for Unity.
-
-<img width="200" src="./Unity/Assets/Documentation/ReadMe/Art/Sprites/ProjectIcon.png" alt="Best Practices">
-
-**Getting Started**
-1. Download this repo (*.zip or *.git)
-1. Download the [Unity Editor](https://store.unity.com/#plans-individual)
-1. Open this repo in the Unity Editor
-1. Enjoy
-
----
-
-### Videos
-
-This **Unity Project** is featured in the following YouTube video playlist.
-
-<table>
-<tr>
-<th>Unity Game Dev - In 3 Mins</th>
-</tr>
-<tr>
-<td>
-<a href="https://www.youtube.com/playlist?list=PL5domiITryHhlCKPSpiGuUt_kQg0nk3Of"><img width="500" src="https://i3.ytimg.com/vi/pXzLXNEW3bk/maxresdefault.jpg" /></a>
-</td>
-</tr>
-</table>
-
----
-
-### Features
-
-<img width = "400" src="./Unity/Assets/Documentation/Images/Screenshot.png" />
-
-This project is a living template. It showcases the best practices and coding standards for many common workflows.
-
-**Includes Templates For** ...
-* Git Repo - Structure, .gitignore, ReadMe.md
-* Scene Hiearchy Window - Structure
-* Project Window - Structure
-* Inspector Window - ReadMe.asset
-* Runtime Coding
-* Editor Coding 
-* Unit Testing 
-
-
+This is a **public** examples demo for the https://github.com/samuelAsherRivello/rmc-ai library.
 
 ---
 
@@ -70,51 +26,6 @@ This project is a living template. It showcases the best practices and coding st
 
 ----
 
-More
-=============
-
-### A. Unity — Project Structure Best Practices
-
-
-Employing an organized project structure is beneficial to your project and your team.
-
-Scope:
-* Folder Structure
-* Folder Naming
-* File Naming
-
-Benefits:
-
-* Consistency — The project structure has consistency in presentation regardless of team location, spoken language, or individual programmers.
-* Maintenance — Consistent project structure will aid readability. Readability helps new and existing programmers revisit the code base for fixes and improvements.
-* Communication — Developers more implicitly understand each other in written and verbal communication.
-
-### B. Coding Standards
-
-Coding standards define a programming style. 
-
-See the repo's <a href="https://github.com/SamuelAsherRivello/unity-project-template/tree/master/Unity/Assets/Scripts/Runtime/RMC/Templates">C# Templates</a> for more info.
-
-Employing organized coding standards is beneficial to your project and your team.
-
-Scope:
-
-* Naming Conventions
-* File Naming and Organization
-* Formatting and Indentation
-* Comments and Documentation
-* Classes, Functions and Interfaces
-* Testing
-
-Benefits:
-
-* Code Integration
-* Team Member Integration
-* Maintenance
-* Uniform Problem Solving
-* Minimizes Communication
-* Minimizes Performance Pitfalls
-* Saves Money Due to Less Man Hours 
 
 Resources
 =============
