@@ -75,3 +75,4 @@ crashlytics-build.properties
 *.vsconfig
 Unity/.idea/.idea.Unity/.idea/projectSettingsUpdater.xml
 Unity/Assets/Samples/RMC AI/1.0.0/RMC AI Sample/Resources/Sample/ArtificialIntelligenceData.json
+/Unity/Assets/Samples/RMC AI/1.0.0/RMC AI Sample/Resources/Sample
