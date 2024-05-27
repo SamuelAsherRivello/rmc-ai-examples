@@ -3,7 +3,7 @@
 
 This is a **public** examples demo for the https://github.com/samuelAsherRivello/rmc-ai library.
 
----
+<img src="https://forums.getdrafts.com/uploads/default/original/2X/e/e7b4d0c64bccff6787857f8d940e8193b9ab9a90.jpeg" width="450px" />
 
 # Overview
 
