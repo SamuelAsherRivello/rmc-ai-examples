@@ -35,7 +35,8 @@ namespace RMC.AI_Sample.Scenes
             _view.InputPanelUI.IsVisible = true;
 
             _view.InputPanelUI.BodyTextInputFieldUI.InputField.text =
-                $"A Greek god riding a horse on the clouds.";
+                $"A Greek god riding a horse on the clouds.\n" + 
+                $"(Un dios griego montado a caballo sobre las nubes.)";
             
             // Footer
             _view.SubmitButtonUI.IsVisible = true;

@@ -38,7 +38,8 @@ namespace RMC.AI_Sample.Scenes
             _view.OutputPanelUI.IsVisible = true;
 
             _view.InputPanelUI.BodyTextInputFieldUI.InputField.text =
-                $"Tell me a joke with less than 30 words. (Cuéntame un chiste con menos de 30 palabras)";
+                $"Tell me a joke with less than 30 words.\n" +
+                $"(Cuéntame un chiste con menos de 30 palabras)";
             
             // Footer
             _view.SubmitButtonUI.IsVisible = true;
