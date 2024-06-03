@@ -17,17 +17,17 @@
       "dependencies": {
         "com.rmc.rmc-readme": "1.2.2"
       },
-      "hash": "6def47eed83bf670592e7dbbc9c00524914d15d1"
+      "hash": "830c708a10e9c1edb2d346dce619ab0feda05441"
     },
     "com.rmc.rmc-core": {
-      "version": "1.5.0",
+      "version": "https://github.com/SamuelAsherRivello/rmc-core.git",
       "depth": 0,
-      "source": "registry",
+      "source": "git",
       "dependencies": {
         "com.rmc.rmc-newtonsoft.json-for-unity": "10.0.302",
         "com.rmc.rmc-unitask": "2.3.32"
       },
-      "url": "https://registry.npmjs.org"
+      "hash": "8f28047d498d096722d601bc77ebf5d06efd8afb"
     },
     "com.rmc.rmc-newtonsoft.json-for-unity": {
       "version": "10.0.302",

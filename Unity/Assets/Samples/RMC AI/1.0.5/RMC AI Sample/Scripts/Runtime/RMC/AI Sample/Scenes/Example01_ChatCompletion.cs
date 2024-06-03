@@ -93,9 +93,7 @@ namespace RMC.AI_Sample.Scenes
                 )
             };
             
-            var chatRequest = new ChatRequest(message, Model.GPT3_5_Turbo);
-            
-            Debug.Log("Sending ChatRequest() message = " + inputFieldText + " ...");
+            var chatRequest = new ChatRequest(message, Model.GPT4_Turbo);
             
             var result = await _artificialIntelligence.OpenAIClient.ChatEndpoint.
                 GetCompletionAsync(chatRequest);
