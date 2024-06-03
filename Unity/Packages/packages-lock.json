@@ -17,7 +17,7 @@
       "dependencies": {
         "com.rmc.rmc-readme": "1.2.2"
       },
-      "hash": "830c708a10e9c1edb2d346dce619ab0feda05441"
+      "hash": "c68b5b835c13d5c3ece0ae0cc79d9690c1d89910"
     },
     "com.rmc.rmc-core": {
       "version": "https://github.com/SamuelAsherRivello/rmc-core.git",
